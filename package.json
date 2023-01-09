@@ -1,16 +1,16 @@
 {
-  "name": "_blank",
+  "name": "modulr",
   "version": "0.0.1",
-  "description": "The _blank courses, exercises and resources",
+  "description": "modulr",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "http://www.github.com/blank-project/blank-project.github.io"
+    "url": "https://github.com/marzomar/modulr.git"
   },
-  "author": "_blank Team",
+  "author": "BC",
   "license": "CC BY-SA 4.0",
   "devDependencies": {
     "gulp": "^4.0.0",
